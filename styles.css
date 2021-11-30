@@ -31,15 +31,14 @@ video {
 #overskrift1 {
   font-family: "Fugaz One", cursive;
   color: #e44712;
-  font-size: 4rem;
+  font-size: 3rem;
   text-shadow: 2px 2px 5px #2b2b2b;
 }
 
 #overskrift2 {
   font-family: "Fugaz One", cursive;
   color: #e44712;
-
-  font-size: 4rem;
+  font-size: 3rem;
   text-shadow: 2px 2px 5px #2b2b2b;
   text-transform: uppercase;
 }
@@ -125,7 +124,7 @@ p {
   #overskrift1 {
     font-family: "Fugaz One", cursive;
     color: #e44712;
-    font-size: 7rem;
+    font-size: 6rem;
     text-shadow: 2px 2px 5px #2b2b2b;
   }
 
@@ -133,7 +132,7 @@ p {
     font-family: "Fugaz One", cursive;
     color: #e44712;
 
-    font-size: 7rem;
+    font-size: 6rem;
     text-shadow: 2px 2px 5px #2b2b2b;
     text-transform: uppercase;
   }
@@ -147,6 +146,6 @@ p {
   h2 {
     font-family: "Suez One", serif;
     color: #2a2f23;
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
