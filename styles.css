@@ -20,6 +20,46 @@ iframe {
   aspect-ratio: 16 / 9;
 }
 
+video {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+#overskrift1 {
+  font-family: "Fugaz One", cursive;
+  color: #e44712;
+  font-size: 7rem;
+  text-shadow: 2px 2px 5px #2b2b2b;
+}
+
+#overskrift2 {
+  font-family: "Fugaz One", cursive;
+  color: #e44712;
+
+  font-size: 7rem;
+  text-shadow: 2px 2px 5px #2b2b2b;
+  text-transform: uppercase;
+}
+
+#overskrift {
+  position: absolute;
+  top: 20%;
+  left: 2%;
+}
+
+h2 {
+  font-family: "Suez One", serif;
+  color: #2a2f23;
+  font-size: 4rem;
+}
+
+p {
+  font-family: "Basic", sans-serif;
+  color: #2a2f23;
+  font-size: 1.5rem;
+}
+
 /* baggrundsbillede forside */
 #splash {
   grid-column: 1/4;
@@ -56,12 +96,6 @@ iframe {
   }
   #billederintro img {
     max-height: 579px;
-  }
-
-  video {
-    width: 100%;
-    height: auto;
-    aspect-ratio: 16 / 9;
   }
 
   #billeder2 {
