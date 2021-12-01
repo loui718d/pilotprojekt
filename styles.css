@@ -59,7 +59,7 @@ h2 {
 p {
   font-family: "Basic", sans-serif;
   color: #2a2f23;
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom: 10px;
 }
 
@@ -124,7 +124,7 @@ p {
   #overskrift1 {
     font-family: "Fugaz One", cursive;
     color: #e44712;
-    font-size: 6rem;
+    font-size: 5rem;
     text-shadow: 2px 2px 5px #2b2b2b;
   }
 
@@ -132,7 +132,7 @@ p {
     font-family: "Fugaz One", cursive;
     color: #e44712;
 
-    font-size: 6rem;
+    font-size: 5rem;
     text-shadow: 2px 2px 5px #2b2b2b;
     text-transform: uppercase;
   }
@@ -146,6 +146,6 @@ p {
   h2 {
     font-family: "Suez One", serif;
     color: #2a2f23;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }
